@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Семенова Алена</string>
 
-        <string name="about_me">Меня зовут Алена, я хочу стать андроид - разработчиком.</string>
+        <string name="about_me">Меня зовут Алена, я хочу стать андроид - разработчиком. </string>
         <string name="about_title">О себе</string>
         <string name="repozitori_title">Репозиторий</string>
         <string name="repozitori_text">github.com/SemenovaAlena91/DevIntensive</string>
@@ -13,7 +13,7 @@
         <string name="phone_text">+7 (953) 000-00-00</string>
 
         <string name="quantity_rating">4</string>
-        <string name="quantity_lines_code">400</string>
+        <string name="quantity_lines_code">500</string>
         <string name="quantity_projects">2</string>
         <string name="rating">Рейтинг</string>
         <string name="lines_code">Написано строк кода</string>
